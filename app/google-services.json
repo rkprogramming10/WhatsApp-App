@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116603048922",
+    "project_id": "devrk-9b67b",
+    "storage_bucket": "devrk-9b67b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116603048922:android:6ffaf82f18a8fcf3ee66e3",
+        "android_client_info": {
+          "package_name": "com.example.devrk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116603048922-sjju65ukod2jsugvuijhb1idml7bf7cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZqSS5JoEA_ofAVXMwoK9bPwpQV1VNHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116603048922-sjju65ukod2jsugvuijhb1idml7bf7cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
